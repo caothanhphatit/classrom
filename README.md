@@ -120,6 +120,4 @@ Builder pattern thuộc trong một những Creational pattern. Là mẫu thiế
 
 #### Thông tin ứng dụng Builder Pattern
 
- - List item
-
-Object **Product** là đối tượng khởi tạo trong **Builder pattern**. Tại đây, thay vì khởi tạo trực tiếp thì ta gọi thông qua Interface **ProductBuilder**. Tạo một lớp kế thừa  **ProductBuilder**, tại đây có tất cả các phương thức dùng để tạo ra parameters của  **Product**.
+ * Object **Product** là đối tượng khởi tạo trong **Builder pattern**. Tại đây, thay vì khởi tạo trực tiếp thì ta gọi thông qua Interface **ProductBuilder**. Tạo một lớp kế thừa  **ProductBuilder**, tại đây có tất cả các phương thức dùng để tạo ra parameters của  **Product**.
