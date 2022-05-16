@@ -86,9 +86,9 @@
 
 #### Lấy code từ git
 
-  `git clone abcdxyz`
+  `git clone https://github.com/TDTU-IT-DP/ecommerce-management`
 
-`git checkout branch develop`
+`git checkout develop`
 
 #### Chạy ứng dụng
 
